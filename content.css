@@ -64,6 +64,10 @@ figcaption
 {
 	text-decoration: underline;
 }
+ table, th, td
+ {
+	padding: 5px;
+}
 img#i1
  {
    height:200px;
@@ -95,7 +99,10 @@ footer {
   text-align: left;
   color: white;
  }
-
+table caption
+{
+	font-weight: bold;
+}
 
 
 
