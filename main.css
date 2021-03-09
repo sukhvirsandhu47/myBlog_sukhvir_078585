@@ -1,0 +1,21 @@
+﻿header {
+  padding: 10px;
+  text-align: left;
+  background: #1abc9c;
+  color: white;
+  margin-top: 0px;
+  height: 80px;
+}
+header span#title
+{
+	font-style: italic;
+	font-size: 30px;
+	font-weight: bold;	
+}
+header span#tag
+ {	
+   padding: 30px;
+   font-size: 20px;
+   font-weight: bold;	
+
+}
