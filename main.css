@@ -26,7 +26,8 @@ nav#links a {
 	text-decoration: none;
 	color: white;
 	font-size: 17px;
-	padding: 170px;
+	padding-right: 170px;
+	padding-left: 170px;
 	font-weight: bold;
 }
 article#main {

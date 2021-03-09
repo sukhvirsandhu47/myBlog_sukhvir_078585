@@ -26,7 +26,9 @@ nav#links a {
 	text-decoration: none;
 	color: white;
 	font-size: 17px;
-	padding: 170px;
+	padding-right: 170px;
+	padding-left: 170px;
+	
 	font-weight: bold;
 }
 article#main {
@@ -70,8 +72,8 @@ figcaption
 }
 img#i1
  {
-   height:200px;
-   width: 500px;
+   height: 200px;
+   width: 300px;
 }
 p#para
 {
