@@ -30,13 +30,13 @@ nav#links a {
 	font-weight: bold;
 }
 article#main {
-	width: 70%;
-	float: left;
+	width: 80%;
+	float: right;
 
 }
 aside {
-	width: 30%;
-	float: right;
+	width: 20%;
+	float: left;
 
 }
 ul a {
@@ -47,7 +47,12 @@ ul
  {
 	line-height: 30px;
 }
-
+img#lnkimg
+ {
+  height: 50px;
+  width: 50px;
+  padding-right: 10px;
+}
 h1#name
  {
 	color: maroon;
@@ -55,12 +60,14 @@ h1#name
 	font-family: Arial, Helvetica, sans-serif;
 	padding-left: 10px;
 }
+figcaption
+{
+	text-decoration: underline;
+}
 img#i1
  {
-	float: left;
-	padding-right: 10px;
-	width: 400px;
-	height: 250px
+   height:200px;
+   width: 500px;
 }
 p#para
 {
@@ -68,6 +75,12 @@ p#para
 	margin: 0px;
 	font-size: 20px;
     line-height: 30px;
+}
+div#article
+{
+ column-count: 2;
+ column-gap: 30px;
+ padding: 10px;
 }
 section::after {
   content: "";
